@@ -1,0 +1,3 @@
+# Ferramentas no PC (não vão para a ESP32)
+esptool>=4.8.0
+mpremote>=1.24.0
